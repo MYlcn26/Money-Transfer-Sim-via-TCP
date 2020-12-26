@@ -1,0 +1,4 @@
+﻿  functions_s.cpp
+C:\Users\meteh\Desktop\ParaTransferSim\TCP_SERVER\functions_s.cpp(465,10): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\meteh\Desktop\ParaTransferSim\TCP_SERVER\functions_s.cpp(467,19): warning C4129: 'T': unrecognized character escape sequence
+  TCP_SERVER.vcxproj -> C:\Users\meteh\Desktop\ParaTransferSim\TCP_CLIENT\Debug\TCP_SERVER.exe

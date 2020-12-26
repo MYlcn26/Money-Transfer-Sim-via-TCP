@@ -1,0 +1,4 @@
+﻿  TCP_CLIENT.cpp
+C:\Users\meteh\Desktop\ParaTransferSim\TCP_CLIENT\TCP_CLIENT.cpp(14,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\meteh\Desktop\ParaTransferSim\TCP_CLIENT\TCP_CLIENT.cpp(57,3): warning C4102: 'x': unreferenced label
+  TCP_CLIENT.vcxproj -> C:\Users\meteh\Desktop\ParaTransferSim\TCP_CLIENT\Debug\TCP_CLIENT.exe

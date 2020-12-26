@@ -1,0 +1,4 @@
+C:\Users\meteh\source\repos\TCP_CLIENT\Debug\TCP_CLIENT.exe
+C:\Users\meteh\source\repos\TCP_CLIENT\Debug\TCP_CLIENT.pdb
+C:\Users\meteh\Desktop\ParaTransferSim\TCP_CLIENT\Debug\TCP_CLIENT.exe
+C:\Users\meteh\Desktop\ParaTransferSim\TCP_CLIENT\Debug\TCP_CLIENT.pdb
